@@ -1,0 +1,15 @@
+{
+	"ImportPath": "slackBot",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.6.1-16-gded0c29",
+			"Rev": "ded0c29b24f96f46cf349e6701b099db601cf8ec"
+		}
+	]
+}
